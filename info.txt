@@ -1,0 +1,1 @@
+https://nsikakimoh.com/blog/fastapi-and-django-orm
